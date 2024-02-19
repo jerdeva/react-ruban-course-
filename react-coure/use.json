@@ -1,0 +1,10 @@
+{
+    "name":"Olena",
+    "hobbies":["danse, gym, book"],
+    "skills":{
+        "html":"5",
+        "css":"4",
+        "javascript":"4"
+    },
+    "email":"lena@gmail.com"
+}
